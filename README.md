@@ -4,5 +4,7 @@ Number Guessing game created in Python3 using Custom Tkinter library and random 
 
 **requirements**
 1. CustomTkinter
+   
 pip install customtinter
+
 2.random
